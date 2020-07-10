@@ -92,10 +92,10 @@ Intermediate speaker
 
 # 📜 Paper works
 
-- iabstudio
-- gcnbike
-- greenbike
-- vacant_taxi
+- Ham, S. W., Cho, J. H., & Kim, D. K. (2020). Spatiotemporal Demand Prediction Model for Personal Mobility with Latent Feature and Deep Learning: Considering its Intrinsic Features. In Preparation.
+- Cho, J. H., Ham, S. W., & Kim, D. K. (2020). Prediction on Bike-Sharing Hourly Demand using Graph Convolutional Neural Network and Public Transit Usage Data. In Preparation.
+- Cho, J. H., & Kim, D. K. (2020). Efficiency Comparison of Public Bike Repositioning Strategies based on Predicted Demand Patterns. In Preparation.
+- Cho, J. H., & Kim, D. K. (2019). Information Provision Strategy on Taxi Vacancy Rate to Motigate Imbalance between Demand and Supply.
 
 ---
 
