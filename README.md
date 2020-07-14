@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on Transportation Laboratory, Seoul National University
+- 🌱 I’m currently learning bike-sharing, last-mile personal mobility services, ride-hailing service, and Intelligent Transportation System.
+- 📫 How to reach me [cr2622@snu.ac.kr](mailto:cr2622@snu.ac.kr) and [LinkedIn](https://www.linkedin.com/in/junghoon-cho/)
 <!--
 **cr2622/cr2622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +17,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > I'm a **student researcher** based in Seoul, South Korea.
-I am currently MS student at Transportation Lab in Seoul National University.
-I am mainly interested in bike-sharing, last-mile personal mobility services, ride-hailing service, and Intelligent Transportation System.
+> I am currently MS student at Transportation Lab in Seoul National University.
+> I am mainly interested in bike-sharing, last-mile personal mobility services, ride-hailing service, and Intelligent Transportation System.
 
+<!--
 # ☎️ Contact information
 
 📧 School Email: cr2622@snu.ac.kr
@@ -108,3 +111,5 @@ Seoul National University*, Seoul – (2020 - current)*
 ## **Bachelor of Science in Civil and Environmental Engineering**
 
 Seoul National University*, Seoul – (2014 - 2020, 6 yrs)*
+
+-->
