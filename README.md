@@ -1,7 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on Transportation Laboratory, Seoul National University
 - 🌱 I’m currently learning deep learning, bike-sharing, last-mile personal mobility services, ride-hailing service, and Intelligent Transportation System.
-- 📫 How to reach me : [cr2622@snu.ac.kr](mailto:cr2622@snu.ac.kr) and [LinkedIn](https://www.linkedin.com/in/junghoon-cho/)
+- 📫 How to reach me : [cr2622@snu.ac.kr](mailto:cr2622@snu.ac.kr), [LinkedIn](https://www.linkedin.com/in/junghoon-cho/), [https://www.junghooncho.com](https://www.junghooncho.com)
 <!--
 **cr2622/cr2622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
