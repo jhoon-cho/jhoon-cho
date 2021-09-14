@@ -1,66 +1,23 @@
-### Hi there 👋
-- 🔭 I’m currently working on Transportation Laboratory, Seoul National University
-- 🌱 I’m currently learning deep learning, bike-sharing, last-mile personal mobility services, ride-hailing service, and Intelligent Transportation System.
-- 📫 How to reach me : [cr2622@snu.ac.kr](mailto:cr2622@snu.ac.kr), [LinkedIn](https://www.linkedin.com/in/junghoon-cho/), [https://www.junghooncho.com](https://www.junghooncho.com)
-<!--
-**cr2622/cr2622** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Thanks for having me
 
-Here are some ideas to get you started:
+### My name is Jung-Hoon Cho.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-> I'm a **student researcher** based in Seoul, South Korea.
-
-> I am currently MS student at Transportation Lab in Seoul National University.
-
-> I am mainly interested in bike-sharing, last-mile personal mobility services, ride-hailing service, and Intelligent Transportation System.
-
-<!--
-# ☎️ Contact information
-
-📧 School Email: cr2622@snu.ac.kr
-
-📧 Personal Email: junghooncho@kakao.com
-
-🔗 [LinkedIn](https://www.linkedin.com/in/junghoon-cho/)
+- 🔭 I am M.S. student and currently working as a research and teaching assistant in [Seoul National University](http://en.snu.ac.kr), Republic of Korea. I joined [Transportation Laboratory](https://trlab-snu.github.io/) in Feb 2020. I received B.S. in Civil and Environmental Engineering from Seoul National University in 2020.
+- 🌱 My research interest is in three-folds.
+    - 🚋 Smart Mobility (Micromobility, Ride-hailing, Mobility-on-demand, Car-sharing)
+    - 🛣️ Smart Infrastructure (Autonomous driving, Freeway traffic control, Mixed autonomy traffic)
+    - 📊 Urban Data Intelligence & Machine learning (Graph Convolution Networks, Multi-agent Deep Reinforcement Learning)
+- 🇺🇸 I am nominated as a Principal Candidate for a [2022 Fulbright Graduate Student Program Award](https://www.fulbright.or.kr/en/testing/).
+- For details, please visit my [personal website](http://www.junghooncho.com).
+- 📫 How to reach me
+    - E-mail: [cr2622@snu.ac.kr](mailto:cr2622@snu.ac.kr)
+    - [LinkedIn](https://www.linkedin.com/in/junghoon-cho/), [GitHub](https://github.com/cr2622)
 
 ---
 
-# **👩🏻‍💻** Work experience
+# 📜 Research
 
-## Planning and Operation Manager
-
-Teach For Korea*, Seoul – (2019 - 2020, 13 mos)*
-
-- Planning and Operation Manager
-
-## TADA Business Development Internship
-
-VCNC*, Seoul – (Jun 2019 - Aug 2019, 3 mos)*
-
-- TADA, the largest ride-hailing service in Korea
-- Operation management for TADA Air, Private, and VIP VAN
-- Business development
-
-## Squad Leader (Sergeant)
-
-Republic of Korea Army*, Yeoncheon – (Jul 2016 - Apr 2018, 21 mos)*
-
-## Principal Teacher (Mathematics) & Financial Lead Manager
-
-Teach For Korea*, Seoul – (2015 - 2016, 13 mos)*
-
-- Teaching student Math for over 200 hours in Seong-buk School
-- Awarded as the Best Mentor of the month (twice)
-- Financial Lead Manager (8 mos)
-- Principal of Seong-buk School (2 mos)
+- Please visit [Google Scholar](https://scholar.google.com/citations?user=1QvtDvEAAAAJ&hl=en), [Research Gate](https://www.researchgate.net/profile/Jung-Hoon-Cho-3), or [Personal Website](http://www.junghooncho.com)
 
 ---
 
@@ -71,12 +28,11 @@ Teach For Korea*, Seoul – (2015 - 2016, 13 mos)*
 ### Python ⭐️⭐️⭐️⭐️
 
 - My main programming language
-- I have worked with it for over 12 months.
+- I have worked with it for over 3 years.
 - I've used it along with Pandas, Numpy, Scikit-learn, Pytorch, and Tensorflow
-- Big Data processing
-- Constructing Deep learning framework
+- Processing big data, Constructing Deep learning framework, and Visualization
 
-### R  ⭐️⭐️⭐️⭐️
+### R ⭐️⭐️⭐️⭐️
 
 - Mainly use it for data analysis
 - Familiar with several packages
@@ -94,24 +50,3 @@ Native speaker
 Intermediate speaker
 
 ---
-
-# 📜 Paper works
-
-- Ham, S. W., Cho, J. H., & Kim, D. K. (2020). Spatiotemporal Demand Prediction Model for Personal Mobility with Latent Feature and Deep Learning: Considering its Intrinsic Features. In Preparation.
-- Cho, J. H., Ham, S. W., & Kim, D. K. (2020). Prediction on Bike-Sharing Hourly Demand using Graph Convolutional Neural Network and Public Transit Usage Data. In Preparation.
-- Cho, J. H., & Kim, D. K. (2020). Efficiency Comparison of Public Bike Repositioning Strategies based on Predicted Demand Patterns. In Preparation.
-- Cho, J. H., & Kim, D. K. (2019). Information Provision Strategy on Taxi Vacancy Rate to Motigate Imbalance between Demand and Supply.
-
----
-
-# 📚 Education
-
-## Master **of Science in Civil and Environmental Engineering**
-
-Seoul National University*, Seoul – (2020 - current)*
-
-## **Bachelor of Science in Civil and Environmental Engineering**
-
-Seoul National University*, Seoul – (2014 - 2020, 6 yrs)*
-
--->
